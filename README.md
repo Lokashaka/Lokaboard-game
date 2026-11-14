@@ -2,6 +2,8 @@
 
 **Game papan digital budaya Nusantara.** Susun ubin motif kain Nusantara di atas papan, raih poin dari pola yang selaras, lalu baca kisah di balik setiap kain.
 
+**Versi 1.1.1** · main online dengan kode ruang, kartu cerita 3D, 31 kartu koleksi.
+
 Repo ini hanya berisi **game yang sudah jadi (build Windows)**. Kode sumbernya disimpan terpisah.
 
 ## Unduh dan main
@@ -39,7 +41,7 @@ Kalau ada isi kartu cerita yang keliru, tekan tombol **Laporkan kesalahan** di k
 
 ## Kredit
 
-- **Pengembang:** Lokashaka
+- **Pengembang:** Lokashaka · dibuat dengan Unity
 - **Huruf:** Cormorant Garamond oleh Christian Thalmann · Plus Jakarta Sans oleh Tokotype (SIL Open Font License)
 - **Ilustrasi kain dan motif:** dibuat dengan Codex (OpenAI) mengikuti palet Lokaboard
 - **Musik dan efek suara:** dibuat secara prosedural; komposisi gamelan orisinal
