@@ -2,19 +2,22 @@
 
 **Game papan digital budaya Nusantara.** Susun ubin motif kain Nusantara di atas papan, raih poin dari pola yang selaras, lalu baca kisah di balik setiap kain.
 
-**Versi 1.1.2** · main online dengan kode ruang, kartu cerita 3D, 31 kartu koleksi.
+**Versi 1.2.0** · Windows dan Android · main online tangguh · 31 kartu cerita dua bahasa yang terbuka sebagai hadiah.
 
-Repo ini hanya berisi **game yang sudah jadi (build Windows)**. Kode sumbernya disimpan terpisah.
+Situs resmi: **https://lokaboard.lokashaka.id** (unduh, lapor kesalahan, diskusi).
+Repo ini hanya berisi **game yang sudah jadi**. Kode sumbernya disimpan terpisah.
 
 ## Unduh dan main
 
-1. Klik tombol hijau **Code → Download ZIP** di halaman ini.
-2. Ekstrak ZIP-nya.
-3. Buka folder `Lokaboard`, lalu jalankan **`Lokaboard.exe`**.
+| Platform | Unduh | Cara pasang |
+|---|---|---|
+| **Windows 10/11 (64-bit)** | [LokaboardSetup.exe](https://github.com/Lokashaka/Lokaboard-game/raw/main/LokaboardSetup.exe) (30 MB) | Jalankan, ikuti langkahnya. Tidak perlu hak admin; muncul di menu Start. |
+| **Android 8.0+** | [Lokaboard.apk](https://github.com/Lokashaka/Lokaboard-game/raw/main/Lokaboard.apk) | Buka di ponsel, izinkan "pasang dari sumber ini" bila diminta. |
+| Windows tanpa installer | Tombol **Code → Download ZIP** | Ekstrak, buka folder `Lokaboard`, jalankan `Lokaboard.exe`. |
 
-Kebutuhan: Windows 10 atau 11 (64-bit). Tidak perlu internet dan tidak perlu akun.
+Main sendiri atau dengan teman di satu perangkat tidak perlu internet. Mode online butuh internet.
 
-> Windows mungkin menampilkan peringatan "Windows protected your PC" karena game ini belum ditandatangani secara digital. Klik **More info → Run anyway** untuk melanjutkan.
+> Windows mungkin menampilkan "Windows protected your PC" karena game ini belum ditandatangani secara digital. Klik **More info → Run anyway**.
 
 ## Cara bermain
 
@@ -27,17 +30,26 @@ Kebutuhan: Windows 10 atau 11 (64-bit). Tidak perlu internet dan tidak perlu aku
 - **Pengimbang**: pemain yang tertinggal mendapat +1 per langkah untuk tiap 4 poin ketertinggalan dari pemimpin (paling banyak +6).
 - Mode: **Klasik** (3 ronde, papan 9 x 9), **Cepat** (1 ronde, 9 x 9), **Kilat** (1 ronde, 7 x 7).
 - Baru pertama kali main? Pilih **Mulai Game → Tutorial**.
-- Tekan **Esc** untuk jeda.
+- Tekan **Esc** (atau tombol kembali di Android) untuk membuka menu.
+
+## Main online
+
+Pilih **Mulai Game → Lawan: Online (kode ruang)**, buat ruang, lalu bagikan kode 6 hurufnya ke teman.
+- Setiap giliran punya batas waktu **60 detik**. Bila habis, langkah acak yang sah dimainkan otomatis.
+- Game tertutup atau internet putus? Buka lagi dan pilih **Lanjutkan ruang** di menu utama.
+- Pemain yang keluar tidak menghentikan pertandingan; gilirannya dimainkan otomatis.
+- Setelah selesai, tuan rumah bisa menekan **Main lagi** di ruang yang sama.
 
 ## Koleksi Kartu
 
-Ada 31 kartu cerita tentang kain dan motif Nusantara, dari Songket Palembang sampai Kain Berang Maluku. Setiap kartu memuat ilustrasi, daerah asal, cerita singkat, dan tautan ke sumber tertulisnya. Buka lewat menu **Koleksi Kartu**, atau dari layar akhir pertandingan.
+Ada 31 kartu cerita tentang kain dan motif Nusantara, dari Songket Palembang sampai Kain Berang Maluku. Setiap kartu memuat ilustrasi, daerah asal, cerita singkat, dan tautan ke sumber tertulisnya.
+Lima kartu motif papan terbuka sejak awal; **setiap pertandingan yang selesai membuka 2 kartu baru**, yang muncul sebagai kartu 3D berbalik. Lihat semuanya di menu **Koleksi Kartu**.
 
-Kartu cerita saat ini hanya berbahasa Indonesia. Antarmuka game tersedia dalam bahasa Indonesia dan Inggris.
+Kartu cerita dan antarmuka tersedia dalam **bahasa Indonesia dan Inggris** (Pengaturan → Bahasa).
 
 ## Menemukan kesalahan?
 
-Kalau ada isi kartu cerita yang keliru, tekan tombol **Laporkan kesalahan** di kartu itu, atau buka tab **Issues** di repo ini. Sertakan sumber pembanding bila ada.
+Kalau ada isi kartu cerita yang keliru, tekan tombol **Laporkan kesalahan** di kartu itu, atau buka **https://lokaboard.lokashaka.id/lapor.php** (tanpa akun). Untuk ngobrol soal strategi atau kain dari daerahmu, mampir ke **Diskusi** di situs yang sama.
 
 ## Kredit
 
@@ -50,4 +62,4 @@ Kalau ada isi kartu cerita yang keliru, tekan tombol **Laporkan kesalahan** di k
 
 ---
 
-**English:** Lokaboard is a digital board game about Indonesian textile motifs. Download the ZIP, extract it, and run `Lokaboard/Lokaboard.exe` (Windows 10/11, 64-bit, offline). The interface is available in English; the story cards are in Indonesian for now.
+**English:** Lokaboard is a digital board game about Indonesian textile motifs for 2-4 players. Windows: run [LokaboardSetup.exe](https://github.com/Lokashaka/Lokaboard-game/raw/main/LokaboardSetup.exe). Android 8.0+: install [Lokaboard.apk](https://github.com/Lokashaka/Lokaboard-game/raw/main/Lokaboard.apk). Play against AI, with friends on one device, or online with a 6-letter room code. All 31 story cards and the interface are available in English (Settings → Language). Report errors or join the discussion at https://lokaboard.lokashaka.id.
