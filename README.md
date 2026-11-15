@@ -2,7 +2,7 @@
 
 **Game papan digital budaya Nusantara.** Susun ubin motif kain Nusantara di atas papan, raih poin dari pola yang selaras, lalu baca kisah di balik setiap kain.
 
-**Versi 1.2.0** · Windows dan Android · main online tangguh · 31 kartu cerita dua bahasa yang terbuka sebagai hadiah.
+**Versi 1.2.1** · Windows dan Android · logo HD di ikon dan layar pembuka · main online tangguh · 31 kartu cerita dua bahasa yang terbuka sebagai hadiah.
 
 Situs resmi: **https://lokaboard.lokashaka.id** (unduh, lapor kesalahan, diskusi).
 Repo ini hanya berisi **game yang sudah jadi**. Kode sumbernya disimpan terpisah.
@@ -11,7 +11,7 @@ Repo ini hanya berisi **game yang sudah jadi**. Kode sumbernya disimpan terpisah
 
 | Platform | Unduh | Cara pasang |
 |---|---|---|
-| **Windows 10/11 (64-bit)** | [LokaboardSetup.exe](https://github.com/Lokashaka/Lokaboard-game/raw/main/LokaboardSetup.exe) (30 MB) | Jalankan, ikuti langkahnya. Tidak perlu hak admin; muncul di menu Start. |
+| **Windows 10/11 (64-bit)** | [LokaboardSetup.exe](https://github.com/Lokashaka/Lokaboard-game/raw/main/LokaboardSetup.exe) (31 MB) | Jalankan, ikuti langkahnya. Tidak perlu hak admin; muncul di menu Start. |
 | **Android 8.0+** | [Lokaboard.apk](https://github.com/Lokashaka/Lokaboard-game/raw/main/Lokaboard.apk) | Buka di ponsel, izinkan "pasang dari sumber ini" bila diminta. |
 | Windows tanpa installer | Tombol **Code → Download ZIP** | Ekstrak, buka folder `Lokaboard`, jalankan `Lokaboard.exe`. |
 
