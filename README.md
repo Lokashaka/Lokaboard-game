@@ -2,7 +2,7 @@
 
 **Game papan digital budaya Nusantara.** Susun ubin motif kain Nusantara di atas papan, raih poin dari pola yang selaras, lalu baca kisah di balik setiap kain.
 
-**Versi 1.1.1** · main online dengan kode ruang, kartu cerita 3D, 31 kartu koleksi.
+**Versi 1.1.2** · main online dengan kode ruang, kartu cerita 3D, 31 kartu koleksi.
 
 Repo ini hanya berisi **game yang sudah jadi (build Windows)**. Kode sumbernya disimpan terpisah.
 
