@@ -2,7 +2,7 @@
 
 **Game papan digital budaya Nusantara.** Susun ubin motif kain Nusantara di atas papan, raih poin dari pola yang selaras, lalu baca kisah di balik setiap kain.
 
-**Versi 1.2.1** · Windows dan Android · logo HD di ikon dan layar pembuka · main online tangguh · 31 kartu cerita dua bahasa yang terbuka sebagai hadiah.
+**Versi 1.2.2** · Windows dan Android · menang langsung bila lawan online keluar · giliran teman satu perangkat tanpa jeda · main online tangguh · 31 kartu cerita dua bahasa yang terbuka sebagai hadiah.
 
 Situs resmi: **https://lokaboard.lokashaka.id** (unduh, lapor kesalahan, diskusi).
 Repo ini hanya berisi **game yang sudah jadi**. Kode sumbernya disimpan terpisah.
@@ -29,6 +29,7 @@ Main sendiri atau dengan teman di satu perangkat tidak perlu internet. Mode onli
   - **Simetri**: +3 bila ubinmu diapit dua ubin bermotif sama di sisi yang berlawanan.
 - **Pengimbang**: pemain yang tertinggal mendapat +1 per langkah untuk tiap 4 poin ketertinggalan dari pemimpin (paling banyak +6).
 - Mode: **Klasik** (3 ronde, papan 9 x 9), **Cepat** (1 ronde, 9 x 9), **Kilat** (1 ronde, 7 x 7).
+- Main dengan teman di satu perangkat: giliran berpindah langsung dengan pita "Giliran Pemain X". Ingin tangan ditutup antargiliran? Nyalakan **Pengaturan → Tutup tangan antargiliran**.
 - Baru pertama kali main? Pilih **Mulai Game → Tutorial**.
 - Tekan **Esc** (atau tombol kembali di Android) untuk membuka menu.
 
@@ -37,7 +38,8 @@ Main sendiri atau dengan teman di satu perangkat tidak perlu internet. Mode onli
 Pilih **Mulai Game → Lawan: Online (kode ruang)**, buat ruang, lalu bagikan kode 6 hurufnya ke teman.
 - Setiap giliran punya batas waktu **60 detik**. Bila habis, langkah acak yang sah dimainkan otomatis.
 - Game tertutup atau internet putus? Buka lagi dan pilih **Lanjutkan ruang** di menu utama.
-- Pemain yang keluar tidak menghentikan pertandingan; gilirannya dimainkan otomatis.
+- Lawan keluar (menekan Menu utama, menutup game, atau hilang lebih dari 45 detik)? Kamu **langsung menang**.
+- Pada ruang 3-4 pemain, satu orang keluar tidak menghentikan pertandingan; gilirannya dimainkan otomatis sampai tinggal satu pemain.
 - Setelah selesai, tuan rumah bisa menekan **Main lagi** di ruang yang sama.
 
 ## Koleksi Kartu
